@@ -1,0 +1,9 @@
+{
+    "server": {
+        "port": 4444
+    },
+    "dbUrl": "mongodb://localhost:27017/moviedb",
+    "secretKey": "moviedb-app",
+    "staticFilesUrl": "moviedb",
+    "smsKey": ""
+}
